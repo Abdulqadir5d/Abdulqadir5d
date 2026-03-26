@@ -13,8 +13,3 @@ Abdul Qadir — AI Web Solutions Engineer<br><br>I build high-converting, AI-pow
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdulqadir5d&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulqadir5d&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdulqadir5d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Abdulqadir5d&icon=0&color=0)](https://visitcount.itsvg.in)
